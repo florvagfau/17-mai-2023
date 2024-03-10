@@ -1,0 +1,14 @@
+{
+  "name": "17-mai-2023",
+  "version": "1.0.0",
+  "private": true,
+  "description": "17. mai planlegging Florvåg Skole 2023",
+  "scripts": {
+    "csv": "./node_modules/github-csv-tools/index.js"
+  },
+  "author": "Victor Nystad",
+  "license": "MIT",
+  "devDependencies": {
+    "github-csv-tools": "^3.2.0"
+  }
+}
